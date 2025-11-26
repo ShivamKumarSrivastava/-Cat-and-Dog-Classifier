@@ -56,7 +56,7 @@ Training is done using `binary_crossentropy` loss and the **Adam** optimizer.
 ### 1. Clone the repository
 
 ```bash
-
+gh repo clone ShivamKumarSrivastava/-Cat-and-Dog-Classifier
 ```
 
 ### 2. Install dependencies
